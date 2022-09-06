@@ -1,0 +1,12 @@
+[
+    {
+        "id":"1",
+        "productname":"chips",
+        "description":"A potato chip is a thin slice of potato that has been either deep fried, baked, or air fried until crunchy."
+    },
+    {
+        "id":"2",
+        "productname":"Toast",
+        "description":"Toast is sliced bread that has been browned by radiant heat."
+    }
+]
